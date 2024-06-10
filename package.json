@@ -1,0 +1,17 @@
+{
+  "name": "hw4-yipper-jinsek",
+  "version": "1.0.0",
+  "description": "*Special thanks to Tal Wolman for the original version of this assignment and to Robert Thompson for the original concept behind this assignment.*",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
